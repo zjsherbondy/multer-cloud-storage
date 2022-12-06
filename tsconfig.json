@@ -2,11 +2,11 @@
     "compilerOptions": {
         "module": "commonjs",
         "moduleResolution": "node",
-        "target": "es5",
+        "target": "ESNext",
         "noImplicitAny": false,
         "sourceMap": true,
         "lib": [
-            "es2015"
+            "ESNext"
         ],
         "outDir": "./lib",
         "typeRoots": [
